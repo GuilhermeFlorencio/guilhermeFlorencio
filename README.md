@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with my academic and personal projects
 - 💬 Ask me about Python
 - 📫 How to reach me: guilhermedev.florencio@gmail.com
-- 😄 Pronouns: He/His
 #
 
 <div align="center">
